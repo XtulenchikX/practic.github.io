@@ -1,9 +1,12 @@
 # Стецук Максим Николаевич 2гр.1п.гр.
-Репозиторий для для УПТ
+
+2 курс ИВТ | 2 группа 1 подгруппа | 01.09.2022-28.09.2022
 
 Отчёт по практике
 
 Задание на практику
+
+#ИСР
 
 [ИСР 1.1](https://github.com/XtulenchikX/practiceSep2023.github.io/blob/41cd48a0a30f8827d65730be5c0a4f4d34e48eae/%D0%98%D0%A1%D0%A0%201.1%20%D0%A1%D1%82%D0%B5%D1%86%D1%83%D0%BA%202%D0%B3%D1%80.1%D0%BF.%D0%B3%D1%80..pdf)
 
@@ -16,6 +19,8 @@
 [ИСР 1.3 (групповое)](https://drive.google.com/drive/folders/1a4mtpgvcvbvnhbl9lbDKssEsQbWlM20E?usp=sharing)
 
 [Скринкаст про YTracker](https://drive.google.com/file/d/165O2AevriUf8sHw6E5JYlsRDtJrlC3C-/view?usp=sharing)
+
+#ВСР
 
 [ВСР 2.1](https://github.com/XtulenchikX/practiceSep2023.github.io/blob/e3f9cf7088965d202c255fd5999251c9b7f39dd0/%D0%92%D0%A1%D0%A0%202.1%20%D0%A1%D1%82%D0%B5%D1%86%D1%83%D0%BA%202%D0%B3%D1%80.1%D0%BF.%D0%B3%D1%80..pdf)
 
