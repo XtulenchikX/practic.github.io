@@ -7,7 +7,9 @@
 
 [ИСР 1.1](https://github.com/XtulenchikX/practiceSep2023.github.io/blob/41cd48a0a30f8827d65730be5c0a4f4d34e48eae/%D0%98%D0%A1%D0%A0%201.1%20%D0%A1%D1%82%D0%B5%D1%86%D1%83%D0%BA%202%D0%B3%D1%80.1%D0%BF.%D0%B3%D1%80..pdf)
 
-[ИСР 1.2](https://drive.google.com/drive/folders/1OU5Hli-nMlpwAolpkL8qU9W2dkLUsYM2?usp=sharing)
+[ИСР 1.2 персональное]
+
+[ИСР 1.2 групповое](https://drive.google.com/drive/folders/1OU5Hli-nMlpwAolpkL8qU9W2dkLUsYM2?usp=sharing)
 
 [Скринкаст про PyCharm](https://drive.google.com/file/d/1eOqiLITs5BE1A5W4CgWSDxqC___RzMpd/view?usp=sharing)
 
