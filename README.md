@@ -7,8 +7,7 @@
 
 [ИСР 1.2]
 
-[Скринкаст про PyCharm]
-(https://drive.google.com/file/d/1mvoZ5NXZi1hR2gaZb56fOhMT6z-CMjox/view?usp=sharing)
+[Скринкаст про PyCharm](https://drive.google.com/file/d/1mvoZ5NXZi1hR2gaZb56fOhMT6z-CMjox/view?usp=sharing)
 
 [ИСР 1.3]
 
