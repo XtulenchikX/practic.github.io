@@ -11,9 +11,9 @@
 
 [Скринкаст про PyCharm](https://drive.google.com/file/d/1eOqiLITs5BE1A5W4CgWSDxqC___RzMpd/view?usp=sharing)
 
-[ИСР 1.3 персональное](https://github.com/XtulenchikX/practiceSep2023.github.io/blob/fa33aab99b96c0b6a94aedece0eef12194403aaf/%D0%98%D0%A1%D0%A0%201.3%20%D0%A1%D1%82%D0%B5%D1%86%D1%83%D0%BA%202%D0%B3%D1%80.1%D0%BF.%D0%B3%D1%80..pdf)
+[ИСР 1.3 (персональное)](https://github.com/XtulenchikX/practiceSep2023.github.io/blob/fa33aab99b96c0b6a94aedece0eef12194403aaf/%D0%98%D0%A1%D0%A0%201.3%20%D0%A1%D1%82%D0%B5%D1%86%D1%83%D0%BA%202%D0%B3%D1%80.1%D0%BF.%D0%B3%D1%80..pdf)
 
-[ИСР 1.3 групповое](https://drive.google.com/drive/folders/1a4mtpgvcvbvnhbl9lbDKssEsQbWlM20E?usp=sharing)
+[ИСР 1.3 (групповое)](https://drive.google.com/drive/folders/1a4mtpgvcvbvnhbl9lbDKssEsQbWlM20E?usp=sharing)
 
 [Скринкаст про YTracker](https://drive.google.com/file/d/165O2AevriUf8sHw6E5JYlsRDtJrlC3C-/view?usp=sharing)
 
