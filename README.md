@@ -38,7 +38,7 @@
 
 ВСР 2.3
 
-[Стэндовый доклад от группы ERROR404](https://github.com/XtulenchikX/practiceSep2023.github.io/blob/e3f9cf7088965d202c255fd5999251c9b7f39dd0/%D0%92%D0%A1%D0%A0%202.3%20Team%20ERROR404%20%D1%81%D1%82%D1%8D%D0%BD%D0%B4%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%B4%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4.pdf)
+[Стендовый доклад от группы ERROR404](https://github.com/XtulenchikX/practiceSep2023.github.io/blob/8c5eecb41a4fc392db440309066c0e88752e7e9d/%D0%92%D0%A1%D0%A0%202.3%20Team%20ERROR404%20%D1%81%D1%82%D0%B5%D0%BD%D0%B4%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%B4%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4.pdf)
 
 # Итоговые документы
 
